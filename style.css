@@ -60,13 +60,13 @@ img {
 
 .keyword {
 	font-size: 16px;
-	color: #721b1b !important;
+	color: #721b1b;
 	font-weight: bold;
 }
 
 .bio {
-	margin-left: 10%;
-	margin-right: 10%;
+	margin-left: 30px;
+	margin-right: 30px;
 	font-family: "Times New Roman", Times, serif;
 	text-align: left;
 }
