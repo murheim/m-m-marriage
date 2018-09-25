@@ -36,18 +36,18 @@ img {
 
 .column1 {
 	float: left;
+	margin-top: 20px;
 	width: 20%;
 	text-align: left;
 	font-family: "Times New Roman", Times, serif;
 	font-size: 18px;
-	margin-top: 20px;
 	font-weight: bold;
 	color: rgb(114, 27, 27);
 }
 
 .column2 {
 	float: left;
-	margin-top: 20px;
+	margin-top: 10px;
 	width: 50%;
 	text-align: left;
 }
