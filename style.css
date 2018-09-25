@@ -47,7 +47,7 @@ img {
 
 .column2 {
 	float: left;
-	margin-top: 10px;
+	margin-top: 8px;
 	width: 50%;
 	text-align: left;
 }
@@ -60,7 +60,7 @@ img {
 
 .keyword {
 	font-size: 16px;
-	color: #721b1b;
+	color: #721b1b !important;
 	font-weight: bold;
 }
 
