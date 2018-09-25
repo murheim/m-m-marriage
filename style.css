@@ -26,6 +26,15 @@ h2 {
 	font-style: italic;
 }
 
+h3 {
+  	font-family: "Times New Roman", Times, serif;
+	font-size: 18px;
+	margin-top: 20px;
+	font-weight: normal;
+	text-align: left;
+	font-style: bold;
+}
+
 img {
 	border-radius: 8px;
 	max-width: 230px;
