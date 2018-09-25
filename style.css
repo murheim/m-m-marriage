@@ -5,7 +5,7 @@ body {
 	background-color: rgb(240,240,240);
 	font-family: "Times New Roman", Times, serif;
 	font-size: 16px;
-	/*text-align: center;*/
+	text-align: center;
 }
 
 /* Applies to all <h1>...</h1> elements. */
