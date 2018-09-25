@@ -47,7 +47,11 @@ img {
 
 .column2 {
 	float: left;
+<<<<<<< HEAD
 	margin-top: 10px;
+=======
+	margin-top: 8px;
+>>>>>>> 646c7da3a3e904930c96106390d7ac4ba97869a8
 	width: 50%;
 	text-align: left;
 }
@@ -60,7 +64,13 @@ img {
 
 .keyword {
 	font-size: 16px;
-	display: inline
-	color: rgb(114, 27, 27);
+	color: #721b1b;
 	font-weight: bold;
+}
+
+.bio {
+	margin-left: 30px;
+	margin-right: 30px;
+	font-family: "Times New Roman", Times, serif;
+	text-align: left;
 }
