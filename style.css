@@ -62,7 +62,8 @@ img {
 .button-rsvp:hover {
     transform: translateY(-1px);
 }
-.button-rsvp:hover .button-5:focus {
+
+.button-rsvp:hover .button-rsvp:focus {
     background-color: #648bb9;
     box-shadow: rgba(0, 0, 0, 0.2) 0 4px 12px;
 }
