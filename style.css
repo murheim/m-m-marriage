@@ -17,7 +17,7 @@ h1 {
 }
 
 h2 {
-  	font-family: FANGSONG, Times, serif;
+  	font-family: fangsong, Times, serif;
 	font-size: 18px;
 	margin-bottom: 5px;
 	font-weight: normal;
@@ -42,8 +42,8 @@ img {
     color: rgb(232, 245, 255);
     cursor: pointer;
     display: inline-flex;
-    font-family: system-ui, -apple-system, system-ui, "Helvetica Neue", Helvetica, Arial, sans-serif;
-    font-size: 16px;
+    font-family: fangsong, Times, serif;
+    font-size: 24px;
     font-weight: 600;
     justify-content: center;
     line-height: 1.25;
@@ -64,8 +64,8 @@ img {
     transform: translateY(-1px);
 }
 .button-rsvp:hover .button-5:focus {
-    background-color: #fb8332;
-    box-shadow: rgba(0, 0, 0, 0.1) 0 4px 12px;
+    background-color: #648bb9;
+    box-shadow: rgba(0, 0, 0, 0.2) 0 4px 12px;
 }
 
 .column1 {
