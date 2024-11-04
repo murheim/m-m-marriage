@@ -61,12 +61,12 @@ img {
 
 .button-rsvp:hover {
     transform: translateY(-1px);
-    background-color: #648bb9;
+    background-color: #315d92;
     box-shadow: rgba(0, 0, 0, 0.2) 0 4px 12px;
 }
 
 .button-rsvp:focus {
-    background-color: #648bb9;
+    background-color: #315d92;
     box-shadow: rgba(0, 0, 0, 0.2) 0 4px 12px;
 }
 
