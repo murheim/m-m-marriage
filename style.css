@@ -39,6 +39,14 @@ img {
     	margin: 50px auto;
 }
 
+.menu-item {
+    font-size: 20px;
+}
+
+.menu-item:hover {
+    text-decoration: underline;
+}
+
 .button-rsvp {
     align-items: center;
     background-clip: padding-box;
