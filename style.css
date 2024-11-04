@@ -11,20 +11,17 @@ body {
 
 h1 {
   	font-family: Papyrus, Copperplate, fantasy;
-	font-size: 35px;
+	font-size: 45px;
 	font-weight: bold;
-	margin-top: 5px;
-	margin-bottom: 5px;
 	text-align: center;
 }
 
 h2 {
-  	font-family: "Times New Roman", Times, serif;
+  	font-family: FANGSONG, Times, serif;
 	font-size: 18px;
-	margin-top: 0px;
+	margin-bottom: 5px;
 	font-weight: normal;
 	text-align: center;
-	font-style: italic;
 }
 
 img {
@@ -66,7 +63,7 @@ img {
 .button-rsvp:hover {
     transform: translateY(-1px);
 }
-.button-rsvp:hover, .button-5:focus {
+.button-rsvp:hover .button-5:focus {
     background-color: #fb8332;
     box-shadow: rgba(0, 0, 0, 0.1) 0 4px 12px;
 }
